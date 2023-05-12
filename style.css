@@ -129,7 +129,7 @@
     text-align: center;
     color: rgb(40, 40, 40);
     background-color: #ffffff;
-    font-family:'Raleway', sans-serif;
+    font-family: 'Raleway', sans-serif;
     margin: 15px;
     padding-bottom: 33px;
     width: 380px;
@@ -158,7 +158,7 @@
 
 
 .order {
-    background-image: url('bghover.jpg');
+    background-image: url('imgs/bghover.jpg');
     height: 700px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -238,18 +238,19 @@
 /*   ------------carousel section css----------------- */
 
 ._slider {
-  /* width: 10px !important; */
-  height: 290px !important;
- }
+    /* width: 10px !important; */
+    height: 290px !important;
+}
 
- .owl-carousel.owl-drag .owl-item{
+.owl-carousel.owl-drag .owl-item {
     width: 425px !important;
- }
+}
 
- .owl-theme .owl-nav{
+.owl-theme .owl-nav {
     display: none !important;
- }
- /* ------------------------------------------------ */
+}
+
+/* ------------------------------------------------ */
 
 .details h1 {
     font-size: 42px;
@@ -289,7 +290,7 @@
 .parentBaking {
     display: flex;
     flex-wrap: wrap;
-    margin: 0px 370px 72px;
+    margin: 0 280px 76px;
 
     /* padding: 100px; */
     width: 990px;
@@ -298,7 +299,7 @@
 
 
 .sweets {
-    background-image: url('bghover2.jpg');
+    background-image: url('imgs/bghover2.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -561,7 +562,6 @@
     }
 
 
-
     .btn {
         width: 200px;
         margin: 30px;
@@ -604,20 +604,21 @@
         margin-top: 64px;
         margin-bottom: 64px;
         display: block;
-      }
+    }
 
     .sweetSection {
         padding: 35px;
     }
+
     .sweet_box {
         padding: 0;
         width: 310px;
         margin: 20px;
-      }
+    }
 
     .sweets h2 {
         font-size: 42px;
-        margin-top: 64px ;
+        margin-top: 64px;
 
     }
 
@@ -632,13 +633,13 @@
 
     }
 
-    .visitUs h2{
+    .visitUs h2 {
         margin: 33px;
     }
 
-    .visitUs p{
+    .visitUs p {
         padding: 0;
-        
+
     }
 
     .visitUs_box {
